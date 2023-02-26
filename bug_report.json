@@ -1,1 +1,19 @@
-
+{
+  "Bug_reports": {
+                  "ID": "06464DES",
+                  "Title": "Invalid password link sent to email",
+                  "Priority": "High",
+                  "Severity": "Blocker",
+                  "Description": "The link for setting the user password that is sent upon registration is broken, this making the whole registration process impossible",
+                  "Author": "Ruslan Khrebtov",
+                  "Steps to reproduce": {
+                                          "one": "Open The Website",
+                                          "two": "Begin the Account Registration process",
+                                          "three": "Click on the link that is sent by email"
+                                        },
+                  "Expected result": "The User should be brought to a 'New Password'",
+                  "Actual result": "The User recieves an invalid password link",
+                  "Attachments": "Here must be link to google drive",
+                  "Version": "Chrome 110.0.5481.177"
+                  }
+}
