@@ -1,0 +1,10 @@
+{
+	"myPrefences": {
+			"movie": ["Interstellar", "Oblivion", "The Professor"],
+			"serials": ["Breaking Bad", "A Game of Thrones", "House of the Dragon"],
+			"food": "all fruits",
+			"favoriteSeason": "summer",
+			"country": ["USA", "Australia"]
+	}
+}
+
